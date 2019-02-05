@@ -1,0 +1,9 @@
+[Unit]
+Description=Service for launching lazarus at boot
+[Service]
+WorkingDirectory=/usr/share/airt
+ExecStart=/usr/local/bin/lazarus /usr/share/airt/lazarus.ini
+KillMode=none
+Type=forking
+[Install]
+WantedBy=default.target

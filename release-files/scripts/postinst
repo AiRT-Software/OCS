@@ -1,0 +1,8 @@
+#!/bin/bash
+
+#chmod +x /etc/systemd/system/lazarus.service ## not necessary
+mkdir -p /usr/share/airt/install
+systemctl daemon-reload
+systemctl enable lazarus.service
+systemctl restart lazarus.service
+systemctl status lazarus.service

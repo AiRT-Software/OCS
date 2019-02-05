@@ -1,0 +1,16 @@
+
+
+MessageCodes.cs was replicated in two folders, one for Unity and one for C++.
+
+Now there is just one copy of that file, in:
+
+trunk/jiminy/airt_unity/Assets/Connection/Scripts/MessageCodes.cs
+
+If you want to add new codes, add them to that file.
+
+The current C++ project expects a MessageCodes.h file that is generated automatically by 
+cmake from the .cs file. Just build the project and it will appear. Take into account:
+
+-do not modify the new MessageCodes.h (modify the MessageCodes.cs in airt_unity instead and ask cmake to rebuild the project)
+-do not add MessageCodes.h into subversion
+

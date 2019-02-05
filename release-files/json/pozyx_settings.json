@@ -1,0 +1,241 @@
+{
+    "settings": {
+        "positioning": {
+            "enabled": true,
+            "diy": {
+                "algorithm": "UWB_ONLY",
+                "dimension": "3D",
+                "height": 0,
+                "rangingProtocol": "FAST",
+                "filterType": "NONE",
+                "filterStrength": 0
+            }
+        },
+        "drone": {
+            "tags": {
+                "SW": "0",
+                "NW": "0",
+                "NE": "0",
+                "SE": "0"
+            },
+            "droneWidthmm": 0,
+            "droneHeightmm": 0,
+            "options": {
+                "mode": "individual",
+                "onFail": "individual",
+                "orientationDimension": 3,
+                "filter": {
+                    "updatePeriod": 0.2,
+                    "movementFreedom": 50
+                }
+            }
+        },
+        "uwb": {
+            "channel": 2,
+            "bitrate": "850 kbit/s",
+            "prf": "64 MHz",
+            "plen": 64,
+            "gain": 31.0
+        }
+    },
+    "tags": [
+        {
+            "id": "0",
+            "inUse": true,
+            "settings": {
+                "uwb": {
+                    "channel": 2,
+                    "bitrate": "850 kbit/s",
+                    "prf": "64 MHz",
+                    "plen": 64,
+                    "gain": 31.0
+                }
+            }
+        },
+        {
+            "id": "0",
+            "inUse": true,
+            "settings": {
+                "uwb": {
+                    "channel": 2,
+                    "bitrate": "850 kbit/s",
+                    "prf": "64 MHz",
+                    "plen": 64,
+                    "gain": 31.0
+                }
+            }
+        },
+        {
+            "id": "0",
+            "inUse": true,
+            "settings": {
+                "uwb": {
+                    "channel": 2,
+                    "bitrate": "850 kbit/s",
+                    "prf": "64 MHz",
+                    "plen": 64,
+                    "gain": 31.0
+                }
+            }
+        },
+        {
+            "id": "0",
+            "inUse": true,
+            "settings": {
+                "uwb": {
+                    "channel": 2,
+                    "bitrate": "850 kbit/s",
+                    "prf": "64 MHz",
+                    "plen": 64,
+                    "gain": 31.0
+                }
+            }
+        }
+    ],
+    "anchors": [
+        {
+            "id": "0",
+            "inUse": true,
+            "settings": {
+                "uwb": {
+                    "channel": 2,
+                    "bitrate": "850 kbit/s",
+                    "prf": "64 MHz",
+                    "plen": 64,
+                    "gain": 31.0
+                }
+            },
+            "coordinates": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            }
+        },
+        {
+            "id": "0",
+            "inUse": true,
+            "settings": {
+                "uwb": {
+                    "channel": 2,
+                    "bitrate": "850 kbit/s",
+                    "prf": "64 MHz",
+                    "plen": 64,
+                    "gain": 31.0
+                }
+            },
+            "coordinates": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            }
+        },
+        {
+            "id": "0",
+            "inUse": true,
+            "settings": {
+                "uwb": {
+                    "channel": 2,
+                    "bitrate": "850 kbit/s",
+                    "prf": "64 MHz",
+                    "plen": 64,
+                    "gain": 31.0
+                }
+            },
+            "coordinates": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            }
+        },
+        {
+            "id": "0",
+            "inUse": true,
+            "settings": {
+                "uwb": {
+                    "channel": 2,
+                    "bitrate": "850 kbit/s",
+                    "prf": "64 MHz",
+                    "plen": 64,
+                    "gain": 31.0
+                }
+            },
+            "coordinates": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            }
+        },
+        {
+            "id": "0",
+            "inUse": true,
+            "settings": {
+                "uwb": {
+                    "channel": 2,
+                    "bitrate": "850 kbit/s",
+                    "prf": "64 MHz",
+                    "plen": 64,
+                    "gain": 31.0
+                }
+            },
+            "coordinates": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            }
+        },
+        {
+            "id": "0",
+            "inUse": true,
+            "settings": {
+                "uwb": {
+                    "channel": 2,
+                    "bitrate": "850 kbit/s",
+                    "prf": "64 MHz",
+                    "plen": 64,
+                    "gain": 31.0
+                }
+            },
+            "coordinates": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            }
+        },
+        {
+            "id": "0",
+            "inUse": true,
+            "settings": {
+                "uwb": {
+                    "channel": 2,
+                    "bitrate": "850 kbit/s",
+                    "prf": "64 MHz",
+                    "plen": 64,
+                    "gain": 31.0
+                }
+            },
+            "coordinates": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            }
+        },
+        {
+            "id": "0",
+            "inUse": true,
+            "settings": {
+                "uwb": {
+                    "channel": 2,
+                    "bitrate": "850 kbit/s",
+                    "prf": "64 MHz",
+                    "plen": 64,
+                    "gain": 31.0
+                }
+            },
+            "coordinates": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            }
+        }
+    ]
+}
