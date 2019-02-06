@@ -18,3 +18,4 @@ etc.) and flight plans, which indicate the path that the drone must travel and t
 User Guide available in Zenodo https://zenodo.org/record/1258206
 
 This project has received funding from the European Union's Horizon 2020 research and innovation programme under grant agreement No 732433.
+<img src=" AiRT_software.png" />
